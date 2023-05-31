@@ -2,7 +2,7 @@ import json
 
 
 def write_order_to_json(item, quantity, price, buyer, date):
-    """Запись в json"""
+   
 
     with open('source_data/orders.json', 'r', encoding='utf-8') as f_out:
         data = json.load(f_out)
@@ -12,10 +12,7 @@ def write_order_to_json(item, quantity, price, buyer, date):
         order_info = {'item': item, 'quantity': quantity,
                       'price': price, 'buyer': buyer, 'date': date}
         orders_list.append(order_info)
-        # используем параметр ensure_ascii=False
-        # Если ensure_ascii = True, все не-ASCII символы в выводе будут экранированы
-        # последовательностями \uXXXX, и результатом будет строка, содержащая только ASCII символы.
-        # Если ensure_ascii = False, строки запишутся как есть.
+       
         json.dump(data, f_in, indent=4, ensure_ascii=False)
 
 
