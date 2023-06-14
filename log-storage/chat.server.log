@@ -1,0 +1,13 @@
+2023-06-08 17:45:19,488 - DEBUG    - server   - App started 
+2023-06-08 17:45:19,508 - INFO     - server   - Server started at 127.0.0.1:7777 
+2023-06-08 17:45:27,312 - INFO     - server   - Client connected from 127.0.0.1:41486 
+2023-06-08 17:45:27,313 - INFO     - server   - Data received from ('127.0.0.1', 41486) : {'action': 'presence', 'time': '2023-06-08 17:45:25', 'type': 'status', 'user': {'account_name': 'kz', 'status': 'Yep, I am here!'}} 
+2023-06-08 17:45:27,314 - INFO     - server   - Data sended to ('127.0.0.1', 41486) : {'response': '200', 'time': '2023-06-08 17:45:19', 'alert': 'OK', 'from': 'Server', 'contacts': None} 
+2023-06-08 17:45:33,612 - INFO     - server   - Data received from ('127.0.0.1', 41486) : {'action': 'msg', 'time': '2023-06-08 17:45:25', 'to': None, 'message': '23'} 
+2023-06-08 17:45:33,612 - INFO     - server   - Data sended to ('127.0.0.1', 41486) : {'response': '200', 'time': '2023-06-08 17:45:19', 'alert': 'OK', 'from': 'Server', 'contacts': None} 
+2023-06-08 17:45:36,484 - INFO     - server   - Data received from ('127.0.0.1', 41486) : {'action': 'msg', 'time': '2023-06-08 17:45:25', 'to': None, 'message': 'ahah'} 
+2023-06-08 17:45:36,485 - INFO     - server   - Data sended to ('127.0.0.1', 41486) : {'response': '200', 'time': '2023-06-08 17:45:19', 'alert': 'OK', 'from': 'Server', 'contacts': None} 
+2023-06-08 17:45:40,008 - INFO     - server   - Data received from ('127.0.0.1', 41486) : {'action': 'msg', 'time': '2023-06-08 17:45:25', 'to': None, 'message': 'exit'} 
+2023-06-08 17:45:40,009 - INFO     - server   - Data sended to ('127.0.0.1', 41486) : {'response': '404', 'time': '2023-06-08 17:45:19', 'alert': 'Not found', 'from': 'Server', 'contacts': None} 
+2023-06-08 17:45:40,009 - DEBUG    - server   - App ending 
+2023-06-08 17:47:09,694 - INFO     - server_log_config - Тестовый запуск логирования 
