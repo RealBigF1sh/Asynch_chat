@@ -5,7 +5,8 @@ import log.client_log_config
 
 logger = logging.getLogger('chat.client')
 
-if __name__ == '__main__':
+
+def main():
     logger.debug('App started')
     client_name = input('Введите имя: ')
 
@@ -52,3 +53,8 @@ if __name__ == '__main__':
     logger.debug('App ending')
 
     sock.close()
+
+
+if __name__ == '__main__':
+
+    main()
