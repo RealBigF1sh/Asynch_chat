@@ -1,13 +1,28 @@
-2023-06-08 17:45:19,488 - DEBUG    - server   - App started 
-2023-06-08 17:45:19,508 - INFO     - server   - Server started at 127.0.0.1:7777 
-2023-06-08 17:45:27,312 - INFO     - server   - Client connected from 127.0.0.1:41486 
-2023-06-08 17:45:27,313 - INFO     - server   - Data received from ('127.0.0.1', 41486) : {'action': 'presence', 'time': '2023-06-08 17:45:25', 'type': 'status', 'user': {'account_name': 'kz', 'status': 'Yep, I am here!'}} 
-2023-06-08 17:45:27,314 - INFO     - server   - Data sended to ('127.0.0.1', 41486) : {'response': '200', 'time': '2023-06-08 17:45:19', 'alert': 'OK', 'from': 'Server', 'contacts': None} 
-2023-06-08 17:45:33,612 - INFO     - server   - Data received from ('127.0.0.1', 41486) : {'action': 'msg', 'time': '2023-06-08 17:45:25', 'to': None, 'message': '23'} 
-2023-06-08 17:45:33,612 - INFO     - server   - Data sended to ('127.0.0.1', 41486) : {'response': '200', 'time': '2023-06-08 17:45:19', 'alert': 'OK', 'from': 'Server', 'contacts': None} 
-2023-06-08 17:45:36,484 - INFO     - server   - Data received from ('127.0.0.1', 41486) : {'action': 'msg', 'time': '2023-06-08 17:45:25', 'to': None, 'message': 'ahah'} 
-2023-06-08 17:45:36,485 - INFO     - server   - Data sended to ('127.0.0.1', 41486) : {'response': '200', 'time': '2023-06-08 17:45:19', 'alert': 'OK', 'from': 'Server', 'contacts': None} 
-2023-06-08 17:45:40,008 - INFO     - server   - Data received from ('127.0.0.1', 41486) : {'action': 'msg', 'time': '2023-06-08 17:45:25', 'to': None, 'message': 'exit'} 
-2023-06-08 17:45:40,009 - INFO     - server   - Data sended to ('127.0.0.1', 41486) : {'response': '404', 'time': '2023-06-08 17:45:19', 'alert': 'Not found', 'from': 'Server', 'contacts': None} 
-2023-06-08 17:45:40,009 - DEBUG    - server   - App ending 
-2023-06-08 17:47:09,694 - INFO     - server_log_config - Тестовый запуск логирования 
+2023-06-19 00:48:40,653 - DEBUG    - server   - App started 
+2023-06-19 00:48:40,668 - DEBUG    - chat     - Function "get_server_socket" is called into "mainloop" 
+2023-06-19 00:48:40,668 - INFO     - server   - Server started at 127.0.0.1:7777 
+2023-06-19 00:48:57,256 - INFO     - server   - Client connected from 127.0.0.1:59992 
+2023-06-19 00:49:44,258 - INFO     - server   - Client connected from 127.0.0.1:36392 
+2023-06-19 00:49:44,259 - DEBUG    - chat     - Function "get_data" is called into "mainloop" 
+2023-06-19 00:52:07,670 - DEBUG    - server   - App started 
+2023-06-19 00:52:07,681 - DEBUG    - chat     - Function "get_server_socket" is called into "mainloop" 
+2023-06-19 00:52:07,682 - INFO     - server   - Server started at 127.0.0.1:7777 
+2023-06-19 00:52:16,430 - INFO     - server   - Client connected from 127.0.0.1:45708 
+2023-06-19 00:53:04,762 - DEBUG    - chat     - Function "get_data" is called into "mainloop" 
+2023-06-19 00:56:09,490 - DEBUG    - server   - App started 
+2023-06-19 00:56:09,505 - DEBUG    - chat     - Function "get_server_socket" is called into "mainloop" 
+2023-06-19 00:56:09,507 - INFO     - server   - Server started at 127.0.0.1:7777 
+2023-06-19 00:56:15,821 - INFO     - server   - Client connected from 127.0.0.1:52078 
+2023-06-19 00:56:16,323 - DEBUG    - chat     - Function "get_data" is called into "mainloop" 
+2023-06-19 00:56:16,324 - DEBUG    - chat     - Function "send_data" is called into "mainloop" 
+2023-06-19 00:56:36,524 - DEBUG    - chat     - Function "get_data" is called into "mainloop" 
+2023-06-19 00:56:36,526 - DEBUG    - chat     - Function "send_data" is called into "mainloop" 
+2023-06-19 00:56:55,439 - INFO     - server   - Client connected from 127.0.0.1:53112 
+2023-06-19 00:56:55,942 - DEBUG    - chat     - Function "get_data" is called into "mainloop" 
+2023-06-19 00:56:55,943 - DEBUG    - chat     - Function "send_data" is called into "mainloop" 
+2023-06-19 00:57:05,032 - DEBUG    - chat     - Function "get_data" is called into "mainloop" 
+2023-06-19 00:57:05,032 - DEBUG    - chat     - Function "send_data" is called into "mainloop" 
+2023-06-19 00:57:17,142 - DEBUG    - chat     - Function "get_data" is called into "mainloop" 
+2023-06-19 00:57:17,143 - DEBUG    - chat     - Function "send_data" is called into "mainloop" 
+2023-06-19 00:57:20,651 - DEBUG    - chat     - Function "get_data" is called into "mainloop" 
+2023-06-19 00:57:20,652 - DEBUG    - chat     - Function "send_data" is called into "mainloop" 
