@@ -26,3 +26,30 @@
 2023-06-19 00:57:17,143 - DEBUG    - chat     - Function "send_data" is called into "mainloop" 
 2023-06-19 00:57:20,651 - DEBUG    - chat     - Function "get_data" is called into "mainloop" 
 2023-06-19 00:57:20,652 - DEBUG    - chat     - Function "send_data" is called into "mainloop" 
+2023-06-22 16:34:25,278 - DEBUG    - server   - App started 
+2023-06-22 16:34:25,330 - DEBUG    - chat     - Function "get_server_socket" is called into "mainloop" 
+2023-06-22 16:34:25,333 - INFO     - server   - Server started at 127.0.0.1:7777 
+2023-06-22 16:34:36,638 - INFO     - server   - Client connected from 127.0.0.1:38292 
+2023-06-22 16:34:37,140 - DEBUG    - chat     - Function "get_data" is called into "mainloop" 
+2023-06-22 16:34:37,140 - DEBUG    - chat     - Function "send_data" is called into "mainloop" 
+2023-06-22 16:35:06,539 - INFO     - server   - Client connected from 127.0.0.1:47642 
+2023-06-22 16:35:07,039 - DEBUG    - chat     - Function "get_data" is called into "mainloop" 
+2023-06-22 16:35:07,040 - DEBUG    - chat     - Function "send_data" is called into "mainloop" 
+2023-06-22 16:35:37,672 - DEBUG    - chat     - Function "get_data" is called into "mainloop" 
+2023-06-22 16:40:19,197 - DEBUG    - server   - App started 
+2023-06-22 16:40:19,214 - DEBUG    - chat     - Function "get_server_socket" is called into "mainloop" 
+2023-06-22 16:40:19,215 - INFO     - server   - Server started at 127.0.0.1:7777 
+2023-06-22 16:40:30,716 - INFO     - server   - Client connected from 127.0.0.1:43546 
+2023-06-22 16:40:31,218 - DEBUG    - chat     - Function "get_data" is called into "mainloop" 
+2023-06-22 16:40:31,225 - DEBUG    - chat     - Function "send_data" is called into "mainloop" 
+2023-06-22 16:41:08,408 - DEBUG    - chat     - Function "get_data" is called into "mainloop" 
+2023-06-22 16:43:04,565 - DEBUG    - server   - App started 
+2023-06-22 16:43:04,590 - DEBUG    - chat     - Function "get_server_socket" is called into "mainloop" 
+2023-06-22 16:43:04,591 - INFO     - server   - Server started at 127.0.0.1:7777 
+2023-06-22 16:43:15,717 - INFO     - server   - Client connected from 127.0.0.1:55596 
+2023-06-22 16:43:16,219 - DEBUG    - chat     - Function "get_data" is called into "mainloop" 
+2023-06-22 16:43:16,220 - DEBUG    - chat     - Function "send_data" is called into "mainloop" 
+2023-06-22 16:52:13,587 - DEBUG    - server   - App started 
+2023-06-22 16:52:13,606 - DEBUG    - chat     - Function "get_server_socket" is called into "mainloop" 
+2023-06-22 16:52:57,048 - DEBUG    - server   - App started 
+2023-06-22 16:52:57,062 - DEBUG    - chat     - Function "get_server_socket" is called into "mainloop" 

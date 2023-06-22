@@ -12,6 +12,7 @@ logger = logging.getLogger('chat.client')
 
 def send(sock):
     while True:
+        
         msg = input('Введите сообщение ("exit" для выхода): ')
 
         if msg:
