@@ -51,3 +51,38 @@
 2023-06-19 00:57:20,337 - DEBUG    - chat     - Function "send_data" is called into "main" 
 2023-06-19 00:57:20,653 - DEBUG    - chat     - Function "get_data" is called into "main" 
 2023-06-19 00:57:20,653 - DEBUG    - client   - App ending 
+2023-06-22 16:34:34,347 - DEBUG    - client   - App started 
+2023-06-22 16:34:36,632 - DEBUG    - chat     - Function "get_client_socket" is called into "<module>" 
+2023-06-22 16:34:36,640 - INFO     - client   - Connected to server: 127.0.0.1:7777 
+2023-06-22 16:34:36,641 - DEBUG    - chat     - Function "send_data" is called into "<module>" 
+2023-06-22 16:34:36,661 - DEBUG    - chat     - Function "get_data" is called into "receive" 
+2023-06-22 16:34:37,141 - DEBUG    - chat     - Function "get_data" is called into "receive" 
+2023-06-22 16:35:04,423 - DEBUG    - client   - App started 
+2023-06-22 16:35:06,534 - DEBUG    - chat     - Function "get_client_socket" is called into "<module>" 
+2023-06-22 16:35:06,541 - INFO     - client   - Connected to server: 127.0.0.1:7777 
+2023-06-22 16:35:06,541 - DEBUG    - chat     - Function "send_data" is called into "<module>" 
+2023-06-22 16:35:06,648 - DEBUG    - chat     - Function "get_data" is called into "receive" 
+2023-06-22 16:35:07,041 - DEBUG    - chat     - Function "get_data" is called into "receive" 
+2023-06-22 16:40:28,994 - DEBUG    - client   - App started 
+2023-06-22 16:40:30,715 - DEBUG    - chat     - Function "get_client_socket" is called into "<module>" 
+2023-06-22 16:40:30,721 - INFO     - client   - Connected to server: 127.0.0.1:7777 
+2023-06-22 16:40:30,727 - DEBUG    - chat     - Function "send_data" is called into "<module>" 
+2023-06-22 16:40:30,751 - DEBUG    - chat     - Function "get_data" is called into "receive" 
+2023-06-22 16:40:31,227 - DEBUG    - chat     - Function "get_data" is called into "receive" 
+2023-06-22 16:43:14,031 - DEBUG    - client   - App started 
+2023-06-22 16:43:15,715 - DEBUG    - chat     - Function "get_client_socket" is called into "<module>" 
+2023-06-22 16:43:15,721 - INFO     - client   - Connected to server: 127.0.0.1:7777 
+2023-06-22 16:43:15,722 - DEBUG    - chat     - Function "send_data" is called into "<module>" 
+2023-06-22 16:43:15,748 - DEBUG    - chat     - Function "get_data" is called into "receive" 
+2023-06-22 16:43:16,221 - DEBUG    - chat     - Function "get_data" is called into "receive" 
+2023-06-22 16:52:24,698 - DEBUG    - client   - App started 
+2023-06-22 16:52:29,939 - DEBUG    - chat     - Function "get_client_socket" is called into "<module>" 
+2023-06-22 16:52:29,940 - INFO     - client   - Connected to server: 127.0.0.1:7777 
+2023-06-22 16:52:29,941 - DEBUG    - chat     - Function "send_data" is called into "<module>" 
+2023-06-22 16:52:29,950 - DEBUG    - chat     - Function "get_data" is called into "receive" 
+2023-06-22 16:53:04,015 - DEBUG    - client   - App started 
+2023-06-22 16:53:05,675 - DEBUG    - chat     - Function "get_client_socket" is called into "<module>" 
+2023-06-22 16:53:05,678 - INFO     - client   - Connected to server: 127.0.0.1:7777 
+2023-06-22 16:53:05,679 - DEBUG    - chat     - Function "send_data" is called into "<module>" 
+2023-06-22 16:53:05,688 - DEBUG    - chat     - Function "get_data" is called into "receive" 
+2023-06-22 16:57:30,978 - ERROR    - client   - [Errno 104] Connection reset by peer 
