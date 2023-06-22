@@ -11,3 +11,43 @@
 2023-06-08 17:45:40,011 - INFO     - client   - Data received from ('127.0.0.1', 7777) : {'response': '404', 'time': '2023-06-08 17:45:19', 'alert': 'Not found', 'from': 'Server', 'contacts': None} 
 2023-06-08 17:45:40,011 - DEBUG    - client   - App ending 
 2023-06-08 17:46:59,352 - INFO     - client_log_config - Тестовый запуск логирования 
+2023-06-19 00:48:54,800 - DEBUG    - client   - App started 
+2023-06-19 00:48:57,255 - DEBUG    - chat     - Function "get_client_socket" is called into "main" 
+2023-06-19 00:48:57,263 - INFO     - client   - Connected to server: 127.0.0.1:7777 
+2023-06-19 00:48:57,264 - DEBUG    - chat     - Function "send_data" is called into "main" 
+2023-06-19 00:49:00,715 - DEBUG    - chat     - Function "send_data" is called into "main" 
+2023-06-19 00:49:07,057 - DEBUG    - chat     - Function "send_data" is called into "main" 
+2023-06-19 00:49:42,074 - DEBUG    - client   - App started 
+2023-06-19 00:49:44,257 - DEBUG    - chat     - Function "get_client_socket" is called into "main" 
+2023-06-19 00:49:44,260 - INFO     - client   - Connected to server: 127.0.0.1:7777 
+2023-06-19 00:49:44,262 - DEBUG    - chat     - Function "send_data" is called into "main" 
+2023-06-19 00:49:44,268 - DEBUG    - chat     - Function "get_data" is called into "main" 
+2023-06-19 00:49:53,231 - DEBUG    - chat     - Function "send_data" is called into "main" 
+2023-06-19 00:49:53,231 - DEBUG    - chat     - Function "get_data" is called into "main" 
+2023-06-19 00:52:14,570 - DEBUG    - client   - App started 
+2023-06-19 00:52:16,429 - DEBUG    - chat     - Function "get_client_socket" is called into "main" 
+2023-06-19 00:52:16,430 - INFO     - client   - Connected to server: 127.0.0.1:7777 
+2023-06-19 00:52:16,431 - DEBUG    - chat     - Function "send_data" is called into "main" 
+2023-06-19 00:52:27,491 - DEBUG    - chat     - Function "send_data" is called into "main" 
+2023-06-19 00:52:49,960 - DEBUG    - chat     - Function "send_data" is called into "main" 
+2023-06-19 00:52:58,089 - DEBUG    - chat     - Function "send_data" is called into "main" 
+2023-06-19 00:56:14,199 - DEBUG    - client   - App started 
+2023-06-19 00:56:15,820 - DEBUG    - chat     - Function "get_client_socket" is called into "main" 
+2023-06-19 00:56:15,822 - INFO     - client   - Connected to server: 127.0.0.1:7777 
+2023-06-19 00:56:15,822 - DEBUG    - chat     - Function "send_data" is called into "main" 
+2023-06-19 00:56:16,324 - DEBUG    - chat     - Function "get_data" is called into "main" 
+2023-06-19 00:56:36,295 - DEBUG    - chat     - Function "send_data" is called into "main" 
+2023-06-19 00:56:36,527 - DEBUG    - chat     - Function "get_data" is called into "main" 
+2023-06-19 00:56:53,732 - DEBUG    - client   - App started 
+2023-06-19 00:56:55,438 - DEBUG    - chat     - Function "get_client_socket" is called into "main" 
+2023-06-19 00:56:55,441 - INFO     - client   - Connected to server: 127.0.0.1:7777 
+2023-06-19 00:56:55,441 - DEBUG    - chat     - Function "send_data" is called into "main" 
+2023-06-19 00:56:55,944 - DEBUG    - chat     - Function "get_data" is called into "main" 
+2023-06-19 00:57:04,697 - DEBUG    - chat     - Function "send_data" is called into "main" 
+2023-06-19 00:57:05,033 - DEBUG    - chat     - Function "get_data" is called into "main" 
+2023-06-19 00:57:16,885 - DEBUG    - chat     - Function "send_data" is called into "main" 
+2023-06-19 00:57:17,144 - DEBUG    - chat     - Function "get_data" is called into "main" 
+2023-06-19 00:57:17,144 - DEBUG    - client   - App ending 
+2023-06-19 00:57:20,337 - DEBUG    - chat     - Function "send_data" is called into "main" 
+2023-06-19 00:57:20,653 - DEBUG    - chat     - Function "get_data" is called into "main" 
+2023-06-19 00:57:20,653 - DEBUG    - client   - App ending 
